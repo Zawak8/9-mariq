@@ -18,7 +18,7 @@
                     {
                         if (j == 0 || j == n - 1)
                         {
-                            Console.Write("+ ");
+                            Console.Write("U ");
                         }
                         else
                         {
